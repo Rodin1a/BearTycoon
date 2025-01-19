@@ -1,3 +1,2 @@
 # BearTycoon
-#
 Update Logs
